@@ -57,18 +57,25 @@ EchoFlow was designed to solve this through **voice-first capture and AI-assiste
 ---
 
 ## Product Screens
+
 ### Home + Voice Capture
-![Home](screenshots/ui/01-home-screen.png)
-![Listening](screenshots/ui/02-voice-capture.png)
+<p align="center">
+  <img src="screenshots/ui/01-home-screen.png" width="220"/>
+  <img src="screenshots/ui/02-voice-capture.png" width="220"/>
+</p>
 
 ### AI Processing + Confirmation + Editing
-![Thinking](screenshots/ui/03-ai-processing.png)
-![Confirm](screenshots/ui/04-confirmation.png)
-![Edit](screenshots/ui/05-edit-item.png)
+<p align="center">
+  <img src="screenshots/ui/03-ai-processing.png" width="220"/>
+  <img src="screenshots/ui/04-confirmation.png" width="220"/>
+  <img src="screenshots/ui/05-edit-item.png" width="220"/>
+</p>
 
 ### Planning + Thought Park
-![Plan](screenshots/ui/plan-screen.png)
-![Park](screenshots/ui/06-thought-park.png)
+<p align="center">
+  <img src="screenshots/ui/plan-screen.png" width="220"/>
+  <img src="screenshots/ui/06-thought-park.png" width="220"/>
+</p>
 
 ---
 
@@ -81,7 +88,9 @@ The screenshot below shows part of the `VoiceOverlay.tsx` component responsible 
 - manual fallback
 - UX recovery hints
 
-![Voice Overlay Code](screenshots/code/voice-overlay-component.png)
+<p align="center">
+  <img src="screenshots/code/voice-overlay-component.png" width="900"/>
+</p>
 
 ---
 
