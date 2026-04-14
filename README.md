@@ -6,6 +6,15 @@ The product was designed with an ADHD-friendly workflow in mind: helping users m
 
 ---
 
+## Why I Built This
+I built EchoFlow to solve a very real problem: the gap between having a thought and actually turning it into action.
+
+Traditional productivity tools often assume users can pause, organise their thoughts, and manually plan the next step. For many people, especially those who experience overwhelm, distractibility, or task initiation challenges, that friction can be enough for the thought to disappear entirely.
+
+EchoFlow was designed to reduce that gap by making capture instant, organisation effortless, and action feel lighter.
+
+---
+
 ## Problem
 Traditional planner apps assume users can pause, organise, and manually structure their thoughts.
 
