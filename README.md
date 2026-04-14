@@ -58,16 +58,17 @@ EchoFlow was designed to solve this through **voice-first capture and AI-assiste
 
 ## Product Screens
 ### Home + Voice Capture
-![Home](screenshots/ui/home-screen.png)
-![Listening](screenshots/ui/listening-screen.png)
+![Home](screenshots/ui/01-home-screen.png)
+![Listening](screenshots/ui/02-voice-capture.png)
 
-### AI Processing + Confirmation
-![Thinking](screenshots/ui/thinking-screen.png)
-![Confirm](screenshots/ui/confirm-screen.png)
+### AI Processing + Confirmation + Editing
+![Thinking](screenshots/ui/03-ai-processing.png)
+![Confirm](screenshots/ui/04-confirmation.png)
+![Edit](screenshots/ui/05-edit-item.png)
 
 ### Planning + Thought Park
 ![Plan](screenshots/ui/plan-screen.png)
-![Park](screenshots/ui/park-screen.png)
+![Park](screenshots/ui/06-thought-park.png)
 
 ---
 
